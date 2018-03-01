@@ -4,5 +4,8 @@
   "description": "gets video from playoverwatch on youtube",
   "main": "bot.js",
   "author": "go_choo",
-  "dependencies": {}
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
 }
