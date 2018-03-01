@@ -1,0 +1,8 @@
+{
+  "name": "overwatch_video-bot",
+  "version": "1.0.0",
+  "description": "gets video from playoverwatch on youtube",
+  "main": "bot.js",
+  "author": "go_choo",
+  "dependencies": {}
+}
